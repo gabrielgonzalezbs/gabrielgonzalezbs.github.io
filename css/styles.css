@@ -185,6 +185,12 @@
     font-size: 45px;
     margin-right: 10px;
   }
+
+  .skills-box a {
+    color: var(--main-text-color);
+    text-decoration: none;
+    max-width: 225px;
+  }
   
   /* Mobile */
   @media(max-width: 450px) {
